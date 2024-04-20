@@ -1,16 +1,12 @@
 # Sistema de Cadastro de Usuários e Produtos com Django
 
-Este projeto em Django oferece uma solução completa para cadastro de usuários, permitindo adicionar, editar, excluir e pesquisar produtos juntamente com seus preços. Os usuários podem se cadastrar, fazer login e gerenciar produtos de forma eficiente.
+Este projeto em Django oferece uma solução completa para cadastro de produtos juntamente com seus preços, permitindo adicionar, editar, excluir e pesquisar. Os usuários gerenciar produtos de forma eficiente.
 
 # Recursos Principais:
 
-1. **Cadastro de Usuários:** Os usuários podem se cadastrar no sistema fornecendo informações como nome de usuário, e-mail e senha.
+1. **Gerenciamento de Produtos:** Os usuários têm a capacidade de adicionar, editar e excluir produtos, juntamente com seus respectivos preços. Isso permite um controle completo sobre o catálogo de produtos.
 
-2. **Autenticação e Autorização:** Sistema de autenticação integrado que permite aos usuários fazer login e gerenciar suas próprias contas. Além disso, há controle de acesso para garantir que apenas usuários autorizados possam acessar certas partes do sistema.
-
-3. **Gerenciamento de Produtos:** Os usuários têm a capacidade de adicionar, editar e excluir produtos, juntamente com seus respectivos preços. Isso permite um controle completo sobre o catálogo de produtos.
-
-4. **Pesquisa de Produtos:** Uma funcionalidade de pesquisa está disponível para os usuários encontrarem rapidamente produtos específicos dentro do sistema.
+2. **Pesquisa de Produtos:** Uma funcionalidade de pesquisa está disponível para os usuários encontrarem rapidamente produtos específicos dentro do sistema.
 
 # Instruções de Uso:
 
